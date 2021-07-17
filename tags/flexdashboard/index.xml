@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flexdashboard on Text Mining for Information Professionals</title>
+    <link>https://textmining-infopros.github.io/tags/flexdashboard/</link>
+    <description>Recent content in flexdashboard on Text Mining for Information Professionals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Jan 2019 11:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/flexdashboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet flexdashboard</title>
+      <link>https://textmining-infopros.github.io/talk/2019-rsc-flexdashboard/</link>
+      <pubDate>Tue, 15 Jan 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/talk/2019-rsc-flexdashboard/</guid>
+      <description>Making dashboards in R Markdown</description>
+    </item>
+    
+  </channel>
+</rss>

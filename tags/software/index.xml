@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on Text Mining for Information Professionals</title>
+    <link>https://textmining-infopros.github.io/tags/software/</link>
+    <description>Recent content in software on Text Mining for Information Professionals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>palmerpenguins</title>
+      <link>https://textmining-infopros.github.io/project/palmerpenguins/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/project/palmerpenguins/</guid>
+      <description>An R data package with data about 3 penguin species from the Palmer Station in Antarctica</description>
+    </item>
+    
+  </channel>
+</rss>

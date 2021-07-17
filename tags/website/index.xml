@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on Text Mining for Information Professionals</title>
+    <link>https://textmining-infopros.github.io/tags/website/</link>
+    <description>Recent content in website on Text Mining for Information Professionals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>stat545.com</title>
+      <link>https://textmining-infopros.github.io/project/stat545.com/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/project/stat545.com/</guid>
+      <description>A comprehensive course in data wrangling, exploration, and analysis with R</description>
+    </item>
+    
+    <item>
+      <title>tidymodels.org</title>
+      <link>https://textmining-infopros.github.io/project/tidymodels.org/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/project/tidymodels.org/</guid>
+      <description>The central location for learning and using the tidymodels R packages</description>
+    </item>
+    
+  </channel>
+</rss>
