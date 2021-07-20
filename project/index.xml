@@ -6,86 +6,14 @@
     <description>Recent content in Case Studies on Text Mining for Information Professionals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>RStudio Teaching in Production</title>
-      <link>https://textmining-infopros.github.io/project/rstudio-tip/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Clustering</title>
+      <link>https://textmining-infopros.github.io/project/clustering/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://textmining-infopros.github.io/project/rstudio-tip/</guid>
-      <description>A 2-hour workshop for RStudio certified trainers on how to make shareable slides and websites with R Markdown.</description>
-    </item>
-    
-    <item>
-      <title>palmerpenguins</title>
-      <link>https://textmining-infopros.github.io/project/palmerpenguins/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/palmerpenguins/</guid>
+      <guid>https://textmining-infopros.github.io/project/clustering/</guid>
       <description>An R data package with data about 3 penguin species from the Palmer Station in Antarctica</description>
-    </item>
-    
-    <item>
-      <title>stat545.com</title>
-      <link>https://textmining-infopros.github.io/project/stat545.com/</link>
-      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/stat545.com/</guid>
-      <description>A comprehensive course in data wrangling, exploration, and analysis with R</description>
-    </item>
-    
-    <item>
-      <title>tidymodels.org</title>
-      <link>https://textmining-infopros.github.io/project/tidymodels.org/</link>
-      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/tidymodels.org/</guid>
-      <description>The central location for learning and using the tidymodels R packages</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Machine Learning with the Tidyverse</title>
-      <link>https://textmining-infopros.github.io/project/tidyml/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/tidyml/</guid>
-      <description>Introducing the basics of machine learning in R using tidymodels</description>
-    </item>
-    
-    <item>
-      <title>R Markdown for Medicine</title>
-      <link>https://textmining-infopros.github.io/project/rmd4medicine/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/rmd4medicine/</guid>
-      <description>A four-hour workshop that will take you on a tour of how to get from data to manuscript using R Markdown.</description>
-    </item>
-    
-    <item>
-      <title>Up &amp; Running with blogdown</title>
-      <link>https://textmining-infopros.github.io/project/up-running-blogdown/</link>
-      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/up-running-blogdown/</guid>
-      <description>A workshop to get up and running with blogdown, GitHub, and Netlify</description>
-    </item>
-    
-    <item>
-      <title>RLadies xaringan theme</title>
-      <link>https://textmining-infopros.github.io/project/rladies-xaringan/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/rladies-xaringan/</guid>
-      <description>An RLadies theme for slides made with the xaringan R package</description>
-    </item>
-    
-    <item>
-      <title>Summer of blogdown</title>
-      <link>https://textmining-infopros.github.io/project/summer-of-blogdown/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/summer-of-blogdown/</guid>
-      <description>A week of the blogdown R package for RStudio&amp;rsquo;s summer 2019 interns</description>
     </item>
     
   </channel>

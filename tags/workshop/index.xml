@@ -6,25 +6,7 @@
     <description>Recent content in workshop on Text Mining for Information Professionals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>RStudio Teaching in Production</title>
-      <link>https://textmining-infopros.github.io/project/rstudio-tip/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/rstudio-tip/</guid>
-      <description>A 2-hour workshop for RStudio certified trainers on how to make shareable slides and websites with R Markdown.</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Machine Learning with the Tidyverse</title>
-      <link>https://textmining-infopros.github.io/project/tidyml/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/tidyml/</guid>
-      <description>Introducing the basics of machine learning in R using tidymodels</description>
-    </item>
-    
+    <lastBuildDate>Thu, 12 Sep 2019 08:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R Markdown for Medicine Workshop</title>
       <link>https://textmining-infopros.github.io/talk/2019-rmed-rmd4medicine/</link>
@@ -32,15 +14,6 @@
       
       <guid>https://textmining-infopros.github.io/talk/2019-rmed-rmd4medicine/</guid>
       <description>Using R Markdown in an end-to-end workflow to go from data to manuscript</description>
-    </item>
-    
-    <item>
-      <title>R Markdown for Medicine</title>
-      <link>https://textmining-infopros.github.io/project/rmd4medicine/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/rmd4medicine/</guid>
-      <description>A four-hour workshop that will take you on a tour of how to get from data to manuscript using R Markdown.</description>
     </item>
     
     <item>
@@ -127,15 +100,6 @@ Sound complicated? Join us on December 8th from 3:00 to 4:00 PM for a panel disc
     
     <item>
       <title>Up &amp; Running with blogdown</title>
-      <link>https://textmining-infopros.github.io/project/up-running-blogdown/</link>
-      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/up-running-blogdown/</guid>
-      <description>A workshop to get up and running with blogdown, GitHub, and Netlify</description>
-    </item>
-    
-    <item>
-      <title>Up &amp; Running with blogdown</title>
       <link>https://textmining-infopros.github.io/talk/2017-pdxr-blogdown/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
@@ -150,15 +114,6 @@ Sound complicated? Join us on December 8th from 3:00 to 4:00 PM for a panel disc
       
       <guid>https://textmining-infopros.github.io/talk/2016-ohsu-dataviz/</guid>
       <description>   </description>
-    </item>
-    
-    <item>
-      <title>Summer of blogdown</title>
-      <link>https://textmining-infopros.github.io/project/summer-of-blogdown/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/summer-of-blogdown/</guid>
-      <description>A week of the blogdown R package for RStudio&amp;rsquo;s summer 2019 interns</description>
     </item>
     
   </channel>

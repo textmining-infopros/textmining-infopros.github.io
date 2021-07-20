@@ -80,7 +80,7 @@
     <loc>https://textmining-infopros.github.io/about/about-me/</loc>
   </url><url>
     <loc>https://textmining-infopros.github.io/tags/blogdown/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/categories/</loc>
     <lastmod>2021-04-12T18:00:00+00:00</lastmod>
@@ -101,7 +101,7 @@
     <lastmod>2021-04-12T18:00:00+00:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/categories/workshop/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/talk/2021-ares-kind-tools/</loc>
     <lastmod>2021-04-12T18:00:00+00:00</lastmod>
@@ -111,6 +111,21 @@
   </url><url>
     <loc>https://textmining-infopros.github.io/talk/2021-rmd-params/</loc>
     <lastmod>2021-03-24T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/project/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/project/clustering/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/tags/clustering/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/categories/orange/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/categories/r/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/tags/data-visualization/</loc>
     <lastmod>2021-02-25T12:00:00+00:00</lastmod>
@@ -157,59 +172,23 @@
     <loc>https://textmining-infopros.github.io/talk/2020-rstudio-tip/</loc>
     <lastmod>2020-09-23T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://textmining-infopros.github.io/project/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/tags/r/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/project/rstudio-tip/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/tags/workshop/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://textmining-infopros.github.io/talk/2020-rmedicine-tidyml/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/tags/machine-learning/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/tags/tidymodels/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/project/palmerpenguins/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/tags/software/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/talk/2020-rmd4cdc/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/tags/bookdown/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/project/stat545.com/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/project/tidymodels.org/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/tags/website/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/categories/website/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/talk/2020-sharing-short-notice/</loc>
     <lastmod>2020-03-31T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/talk/2020-rsc-tidyml/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/project/tidyml/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/talk/2019-rladies-sydney/</loc>
     <lastmod>2019-10-04T18:00:00+00:00</lastmod>
@@ -232,11 +211,8 @@
     <loc>https://textmining-infopros.github.io/talk/2019-rmed-rmd4medicine/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
-    <loc>https://textmining-infopros.github.io/tags/r-markdown/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/project/rmd4medicine/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <loc>https://textmining-infopros.github.io/tags/workshop/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/tags/talk/</loc>
     <lastmod>2019-06-18T22:43:01-07:00</lastmod>
@@ -271,6 +247,9 @@
     <loc>https://textmining-infopros.github.io/talk/2019-rsc-blogdown/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
+    <loc>https://textmining-infopros.github.io/tags/bookdown/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url><url>
     <loc>https://textmining-infopros.github.io/talk/2019-rsc-bookdown/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
@@ -292,6 +271,9 @@
     <loc>https://textmining-infopros.github.io/talk/2018-cascadia-bigmagic/</loc>
     <lastmod>2018-06-02T08:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://textmining-infopros.github.io/tags/r/</loc>
+    <lastmod>2018-06-02T08:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://textmining-infopros.github.io/talk/2018-ohsu-sad-plot-better/</loc>
     <lastmod>2018-04-06T16:00:00+00:00</lastmod>
   </url><url>
@@ -304,9 +286,6 @@
     <loc>https://textmining-infopros.github.io/tags/science/</loc>
     <lastmod>2017-12-08T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://textmining-infopros.github.io/project/up-running-blogdown/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://textmining-infopros.github.io/talk/2017-pdxr-blogdown/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -315,12 +294,6 @@
   </url><url>
     <loc>https://textmining-infopros.github.io/tags/dataviz/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/project/rladies-xaringan/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/project/summer-of-blogdown/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/about/</loc>
   </url><url>

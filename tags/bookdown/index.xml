@@ -6,16 +6,7 @@
     <description>Recent content in bookdown on Text Mining for Information Professionals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/bookdown/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>stat545.com</title>
-      <link>https://textmining-infopros.github.io/project/stat545.com/</link>
-      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/stat545.com/</guid>
-      <description>A comprehensive course in data wrangling, exploration, and analysis with R</description>
-    </item>
-    
+    <lastBuildDate>Tue, 15 Jan 2019 14:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/bookdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meet bookdown</title>
       <link>https://textmining-infopros.github.io/talk/2019-rsc-bookdown/</link>
