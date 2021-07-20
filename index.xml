@@ -6,7 +6,7 @@
     <description>Recent content on Text Mining for Information Professionals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 May 2021 11:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysis of YouTube video contents on Koha and DSpace, and sentiment analysis of viewers’ comments</title>
       <link>https://textmining-infopros.github.io/collection/chapter7/01-story/</link>
@@ -172,13 +172,13 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://textmining-infopros.github.io/about/about-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Clustering</title>
+      <link>https://textmining-infopros.github.io/project/clustering/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://textmining-infopros.github.io/about/about-me/</guid>
-      <description>I am originally from Atlanta, Georgia, and am a proud ramblin&#39; wreck from Georgia Tech. I received my PhD in psychology and quantitative methods from Vanderbilt University in 2008. Prior to joining RStudio, I was an Assistant Professor at Arizona State University, and an Associate Professor at Oregon Health &amp;amp; Science University (OHSU). At OHSU, I was an NIH-funded Principal Investigator and an Assistant Center Director.
-My research focused on health-related applications of Natural Language Processing-based methods, and was funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks.</description>
+      <guid>https://textmining-infopros.github.io/project/clustering/</guid>
+      <description>About     Chapter 1: The Computational Library covers the case study on Clustering of Documents using Two Different Tools. It is divided into two parts: 1A, and 1B. 1A case study uses Orange tool whereas 1B case study uses R programming language to perform clustering. The RStudio and Jupyter Notebook are associated with 1B case study.
+For corrections/suggestions reach me at lambamanika07@gmail.com or create an issue here.</description>
     </item>
     
     <item>
@@ -206,15 +206,6 @@ My research focused on health-related applications of Natural Language Processin
       
       <guid>https://textmining-infopros.github.io/talk/2021-rmd-params/</guid>
       <description>Made with YAML, strings, and glue.</description>
-    </item>
-    
-    <item>
-      <title>Clustering</title>
-      <link>https://textmining-infopros.github.io/project/clustering/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/project/clustering/</guid>
-      <description>An R data package with data about 3 penguin species from the Palmer Station in Antarctica</description>
     </item>
     
     <item>
@@ -527,6 +518,33 @@ Sound complicated? Join us on December 8th from 3:00 to 4:00 PM for a panel disc
       
       <guid>https://textmining-infopros.github.io/talk/2016-ohsu-dataviz/</guid>
       <description>   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://textmining-infopros.github.io/about/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/about/header/</guid>
+      <description>Available at Springer     </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://textmining-infopros.github.io/about/sidebar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/about/sidebar/</guid>
+      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
+    </item>
+    
+    <item>
+      <title>About this Book</title>
+      <link>https://textmining-infopros.github.io/about/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/about/main/</guid>
+      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     
     <item>

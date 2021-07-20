@@ -77,13 +77,32 @@
     <loc>https://textmining-infopros.github.io/collection/chapter9/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://textmining-infopros.github.io/about/about-me/</loc>
+    <loc>https://textmining-infopros.github.io/project/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/categories/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/project/clustering/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/tags/clustering/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/categories/orange/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/categories/r/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/tags/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/tags/blogdown/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/categories/</loc>
-    <lastmod>2021-04-12T18:00:00+00:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/talk/2021-iyo-tunis/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
@@ -91,13 +110,7 @@
     <loc>https://textmining-infopros.github.io/tags/rmarkdown/</loc>
     <lastmod>2021-04-12T18:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://textmining-infopros.github.io/tags/</loc>
-    <lastmod>2021-04-12T18:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://textmining-infopros.github.io/talk/</loc>
-    <lastmod>2021-04-12T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/</loc>
     <lastmod>2021-04-12T18:00:00+00:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/categories/workshop/</loc>
@@ -111,21 +124,6 @@
   </url><url>
     <loc>https://textmining-infopros.github.io/talk/2021-rmd-params/</loc>
     <lastmod>2021-03-24T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/project/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/project/clustering/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/tags/clustering/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/categories/orange/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://textmining-infopros.github.io/categories/r/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://textmining-infopros.github.io/tags/data-visualization/</loc>
     <lastmod>2021-02-25T12:00:00+00:00</lastmod>
@@ -294,6 +292,12 @@
   </url><url>
     <loc>https://textmining-infopros.github.io/tags/dataviz/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/about/header/</loc>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/about/sidebar/</loc>
+  </url><url>
+    <loc>https://textmining-infopros.github.io/about/main/</loc>
   </url><url>
     <loc>https://textmining-infopros.github.io/about/</loc>
   </url><url>

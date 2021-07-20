@@ -6,14 +6,15 @@
     <description>Recent content in clustering on Text Mining for Information Professionals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clustering</title>
       <link>https://textmining-infopros.github.io/project/clustering/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://textmining-infopros.github.io/project/clustering/</guid>
-      <description>An R data package with data about 3 penguin species from the Palmer Station in Antarctica</description>
+      <description>About     Chapter 1: The Computational Library covers the case study on Clustering of Documents using Two Different Tools. It is divided into two parts: 1A, and 1B. 1A case study uses Orange tool whereas 1B case study uses R programming language to perform clustering. The RStudio and Jupyter Notebook are associated with 1B case study.
+For corrections/suggestions reach me at lambamanika07@gmail.com or create an issue here.</description>
     </item>
     
   </channel>
