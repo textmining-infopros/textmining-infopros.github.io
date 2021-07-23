@@ -52,41 +52,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>workshop</title>
-      <link>https://textmining-infopros.github.io/categories/workshop/</link>
-      <pubDate>Wed, 26 May 2021 11:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/categories/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://textmining-infopros.github.io/categories/talk/</link>
-      <pubDate>Mon, 12 Apr 2021 18:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/categories/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>keynote</title>
-      <link>https://textmining-infopros.github.io/categories/keynote/</link>
-      <pubDate>Wed, 02 Oct 2019 09:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/categories/keynote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blogdown</title>
-      <link>https://textmining-infopros.github.io/categories/blogdown/</link>
-      <pubDate>Thu, 13 Jun 2019 09:00:00 +0000</pubDate>
-      
-      <guid>https://textmining-infopros.github.io/categories/blogdown/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
