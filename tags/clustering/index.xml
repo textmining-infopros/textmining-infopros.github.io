@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clustering</title>
-      <link>https://textmining-infopros.github.io/case-studies/clustering/</link>
+      <link>https://textmining-infopros.github.io/project/clustering/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://textmining-infopros.github.io/case-studies/clustering/</guid>
+      <guid>https://textmining-infopros.github.io/project/clustering/</guid>
       <description>About     Chapter 1: The Computational Library covers the case study on Clustering of Documents using Two Different Tools. It is divided into two parts: 1A, and 1B. 1A case study uses Orange tool whereas 1B case study uses R programming language to perform clustering.
 How to Cite      
 Please cite this compendium as: Lamba, Manika, &amp;amp; Madhusudhan, Margam. (2021). Clustering of Documents using Two Different Tools (Version 1.</description>

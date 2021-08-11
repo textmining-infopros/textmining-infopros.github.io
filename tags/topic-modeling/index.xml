@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/topic-modeling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Topic Modeling</title>
-      <link>https://textmining-infopros.github.io/case-studies/topic-modeling/</link>
+      <link>https://textmining-infopros.github.io/project/topic-modeling/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://textmining-infopros.github.io/case-studies/topic-modeling/</guid>
+      <guid>https://textmining-infopros.github.io/project/topic-modeling/</guid>
       <description>About     Chapter 4: Topic Modeling covers the case study on Topic Modeling of Documents using Three Different Tools. It is divided into three parts: 4A, 4B, and 4C. 4A case study uses Topic-Modeling-Tool, 4B case study uses RapidMiner, and 4C case study uses R programming language to perform topic modeling.
 How to Cite      
 Please cite this compendium as: Lamba, Manika, &amp;amp; Madhusudhan, Margam.</description>
