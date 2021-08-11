@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 4 on Text Mining for Information Professionals</title>
+    <link>https://textmining-infopros.github.io/stories/chapter4/</link>
+    <description>Recent content in Chapter 4 on Text Mining for Information Professionals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/stories/chapter4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subject Evaluation for Collection Mappings</title>
+      <link>https://textmining-infopros.github.io/stories/chapter4/01-story/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/stories/chapter4/01-story/</guid>
+      <description>At the University of North Texas Libraries, subject-based collections are evaluated on a rotating basis in order to ensure that the diverse needs of each academic department are being met. We start each review by researching the current program to understand the needs, particularly regarding subjects covered in curricula and research&amp;hellip;..
+  Authors   Karen Harker and Sephra Byrne are University Librarians at the University of North Texas, Texas, United States.</description>
+    </item>
+    
+    <item>
+      <title>Personal Experience</title>
+      <link>https://textmining-infopros.github.io/stories/chapter4/02-story/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/stories/chapter4/02-story/</guid>
+      <description>The work I do focuses on visualizing scholarly publication and citation data with VOSviewer, a software tool for visualizing bibliometric networks via exported files from bibliographic databases, such as Web of Science and Scopus. My story focuses mainly on using the tool to create term co-occurrence maps&amp;hellip;.
+  Author   Rachel Miles is a University Librarian at Virginia Polytechnic Institute and State University, Virginia, and caters to the need of humanities, social sciences, STEM, fine arts, and professional discipline users.</description>
+    </item>
+    
+  </channel>
+</rss>

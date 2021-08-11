@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 7 on Text Mining for Information Professionals</title>
+    <link>https://textmining-infopros.github.io/stories/chapter7/</link>
+    <description>Recent content in Chapter 7 on Text Mining for Information Professionals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/stories/chapter7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of YouTube video contents on Koha and DSpace, and sentiment analysis of viewers’ comments</title>
+      <link>https://textmining-infopros.github.io/stories/chapter7/01-story/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/stories/chapter7/01-story/</guid>
+      <description>In the last decade, we have seen the adoption of the latest technological innovations in the services provided by the library and information centres. The library professionals have adopted tools ranging from integrated library management software for managing housekeeping operations to developing institutional repositories using digital content management software&amp;hellip;..
+  Authors   Vinit Kumar is an Assistant Professor at the Department of Library and Information Science, Babasaheb Bhimrao Ambedkar University, Lucknow who performed the following study in association with Maya Deori (Research Scholar) and Manoj Kumar Verma (Associate Professor) from the Department of Library and Information Science, Mizoram University, Aizawl.</description>
+    </item>
+    
+  </channel>
+</rss>
