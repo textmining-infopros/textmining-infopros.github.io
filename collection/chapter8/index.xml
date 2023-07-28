@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 8 on Text Mining for Information Professionals</title>
+    <link>https://textmining-infopros.github.io/collection/chapter8/</link>
+    <description>Recent content in Chapter 8 on Text Mining for Information Professionals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/collection/chapter8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Natural Language Processing (NLP) for Sensory Science</title>
+      <link>https://textmining-infopros.github.io/collection/chapter8/01-story/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/collection/chapter8/01-story/</guid>
+      <description>The goal of our project, Seeing Flavors, is to take open-ended food descriptions and extract a descriptive sensory language through the application of Natural Language Processing (NLP) to published, free-text descriptions. A set of whiskey descriptions is used as a case study. This project is a collaborative effort between the Department of Food Science and Technology and University Libraries at Virginia Tech&amp;hellip;..
+  Authors   Chreston Miller  and Michael Stamper  are the University Librarians at the Virginia Polytechnic Institute and State University.</description>
+    </item>
+    
+    <item>
+      <title>Personal Experience</title>
+      <link>https://textmining-infopros.github.io/collection/chapter8/02-story/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/collection/chapter8/02-story/</guid>
+      <description>The University of Zambia (UNZA) has had a functional Institutional Repository (IR) for way over a decade now. One of the key digital objects ingested into the IR is Electronic Theses and Dissertations (ETDs)&amp;hellip;.
+  Author   Lighton Phiri     is a researcher at the University of Zambia, Zambia.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Text Mining for Information Professionals</title>
+    <link>https://textmining-infopros.github.io/categories/</link>
+    <description>Recent content in Categories on Text Mining for Information Professionals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Orange</title>
+      <link>https://textmining-infopros.github.io/categories/orange/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/categories/orange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://textmining-infopros.github.io/categories/r/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RapidMiner</title>
+      <link>https://textmining-infopros.github.io/categories/rapidminer/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/categories/rapidminer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sci2</title>
+      <link>https://textmining-infopros.github.io/categories/sci2/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/categories/sci2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic Modeling Tool</title>
+      <link>https://textmining-infopros.github.io/categories/topic-modeling-tool/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/categories/topic-modeling-tool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

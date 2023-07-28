@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applications on Text Mining for Information Professionals</title>
+    <link>https://textmining-infopros.github.io/contents/apps/</link>
+    <description>Recent content in Applications on Text Mining for Information Professionals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/contents/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Applications</title>
+      <link>https://textmining-infopros.github.io/contents/apps/01/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/contents/apps/01/</guid>
+      <description>Coconut Library Tools      Coconut Library Tool app was developed by two librarians in order to help librarians or anyone who needs cool features but is hindered by programming languages. Using this app librarians can perform (i) keyword stem, (ii) topic modeling, (iii) bidirected network, and (iv) sunburst. This app works on Scopus&amp;rsquo;s CSV file, Web of Science&amp;rsquo;s Tab delimited file, and custom CSV file.</description>
+    </item>
+    
+  </channel>
+</rss>

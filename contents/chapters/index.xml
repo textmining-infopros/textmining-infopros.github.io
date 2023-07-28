@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapters on Text Mining for Information Professionals</title>
+    <link>https://textmining-infopros.github.io/contents/chapters/</link>
+    <description>Recent content in Chapters on Text Mining for Information Professionals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/contents/chapters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapters</title>
+      <link>https://textmining-infopros.github.io/contents/chapters/01/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/contents/chapters/01/</guid>
+      <description>Chapter 1: The Computational Library     This chapter introduces the concept of computational research and thinking in libraries. It covers (i) the basic concept of text mining, (ii) the need for text mining in libraries, (iii) understanding text characteristics, and (iv) identifying different text mining problems, which include document classification/text categorization, information retrieval, clustering, and information extraction. It presents various use cases of libraries that have applied text mining techniques and enumerates various costs, limitations, and benefits related to text mining.</description>
+    </item>
+    
+  </channel>
+</rss>

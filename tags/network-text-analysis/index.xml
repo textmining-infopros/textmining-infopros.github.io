@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network text analysis on Text Mining for Information Professionals</title>
+    <link>https://textmining-infopros.github.io/tags/network-text-analysis/</link>
+    <description>Recent content in network text analysis on Text Mining for Information Professionals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://textmining-infopros.github.io/tags/network-text-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Text Analysis</title>
+      <link>https://textmining-infopros.github.io/project/network-analysis/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textmining-infopros.github.io/project/network-analysis/</guid>
+      <description>About     Chapter 5: Network Text Analysis covers the case study on Network Text Analysis of Documents using Two Different R Packages. It is divided into two parts: 5A, and 5B. Both 5A and 5B case studies use R programming language to perform text network analysis but with different packages.
+How to Cite      
+Please cite this compendium as: Lamba, Manika, &amp;amp; Madhusudhan, Margam.</description>
+    </item>
+    
+  </channel>
+</rss>
